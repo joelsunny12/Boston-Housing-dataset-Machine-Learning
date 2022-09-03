@@ -29,4 +29,10 @@ provided below:
 13. LSTAT – % lower status of the population
 14. MEDV – Median value of owner-occupied homes in $1000's
 
+### Result
+
 Performed a multiple linear regression analysis on the Boston housing dataset.
+
+1. The model after normalisation has an R^2 value of 0.7406426641094095
+2. F-Statistic is 108.1
+3. RMSE = 4.679191295697281
