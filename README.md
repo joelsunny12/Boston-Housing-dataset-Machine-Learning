@@ -4,6 +4,7 @@ This exercise is based on the Boston Housing dataset taken from the UCI Machine 
 Repository (originally from the CMU StatLib Library) –
 http://archive.ics.uci.edu/ml/datasets/Housing.
 
+### Data
 
 The original source of the dataset is attributed to:
 Harrison, D., Rubinfeld, D.L., “Hedonic Prices and the Demand for Clean Air”,
